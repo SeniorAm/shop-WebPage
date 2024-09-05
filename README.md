@@ -47,7 +47,7 @@ All the CSS and HTML code is written in a single `index.html` file, and no addit
 
 ## 🖼️ پیش‌نمایش | Preview
 
-![Preview Image]([https://s8.uupload.ir/files/img_20240905_190150_b8k3.jpg])  
+![Preview Image](https://s8.uupload.ir/files/img_20240905_190150_b8k3.jpg)  
 *یک پیش‌نمایش از صفحه اصلی سایت با افکت‌های نئونی و محصولات*  
 *A preview of the homepage featuring neon effects and products*
 
