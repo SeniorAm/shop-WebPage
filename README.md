@@ -65,8 +65,8 @@ All the CSS and HTML code is written in a single `index.html` file, and no addit
 ## 📂 ساختار پروژه | Project Structure
 
 ```
-├── samp.html
-└── README.md
+├── README.md
+└── samp.html
 ```
 
 ---
