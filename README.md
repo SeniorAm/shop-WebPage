@@ -73,7 +73,7 @@ All the CSS and HTML code is written in a single `index.html` file, and no addit
 
 ## 🚀 توسعه‌دهنده | Developer
 
-- **نام شما | Your Name** - [GitHub](https://GitHub.com/seniorAm) | [Telegram](https://t.me/BrunoDiktator)
+- **SeniorAmIr  | AmirHosein** - [GitHub](https://GitHub.com/seniorAm) | [Telegram](https://t.me/BrunoDiktator)
 
 ---
 
