@@ -34,14 +34,14 @@ You don't need any special software to run this project. Just follow these steps
 1. به [مخزن پروژه](https://github.com/SeniorAm/shop-WebPage) بروید و فایل‌ها را دانلود کنید.  
    **Go to the [repository](https://github.com/SeniorAm/shop-WebPage) and download the files.**
 
-2. فایل دانلود شده را اکسترکت کنید و سپس فایل `index.html` را در مرورگر خود باز کنید.  
-   **Extract the downloaded file and open the `index.html` file in your browser.**
+2. فایل دانلود شده را اکسترکت کنید و سپس فایل `samp.html` را در مرورگر خود باز کنید.  
+   **Extract the downloaded file and open the `samp.html` file in your browser.**
 
 3. حالا می‌توانید از طراحی زیبا و انیمیشن‌های سایت لذت ببرید! 🎉  
    **Now you can enjoy the beautiful design and animations on the website!** 🎉
 
-تمامی کدهای CSS و HTML در یک فایل `index.html` قرار دارند و نیازی به تنظیمات اضافی نیست.  
-All the CSS and HTML code is written in a single `index.html` file, and no additional setup is required.
+تمامی کدهای CSS و HTML در یک فایل `samp.html` قرار دارند و نیازی به تنظیمات اضافی نیست.  
+All the CSS and HTML code is written in a single `samp.html` file, and no additional setup is required.
 
 ---
 
